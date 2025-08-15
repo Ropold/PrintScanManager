@@ -11,7 +11,7 @@
     <groupId>ropold</groupId>
     <artifactId>backend</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>ropold_PrintScanManager</name>
+    <name>ropold_PrintScanManager-backend</name>
     <description>backend</description>
     <url/>
     <licenses>
